@@ -84,4 +84,6 @@ The project follows a standard Spring Boot application structure:
   spring.datasource.username=your_username
   spring.datasource.password=your_password
 
+Also, note that MySQL database is used for this project.
+
 Feel free to review the code, run the application, and provide any feedback.
