@@ -4,20 +4,29 @@
 
 The project follows a standard Spring Boot application structure:
 
-src
- └── main
-   ├── java
-   │   └── com
-   │       └── apricart
-   │           └── task
-   │               ├── controller       // REST API controllers
-   │               ├── model           // Entity classes
-   │               ├── repository      // Spring Data repositories
-   │               ├── service         // Service classes
-   │               └── TaskApplication.java  // Main Spring Boot application class
-   └── resources
-       └── application.properties       // Application configuration properties
+# Project Structure
 
+## src/main/java/com/apricart/task
+
+### controller
+- REST API controllers
+
+### model
+- Entity classes
+
+### repository
+- Spring Data repositories
+
+### service
+- Service classes
+
+### TaskApplication.java
+- Main Spring Boot application class
+
+## src/main/resources
+
+### application.properties
+- Application configuration properties
 
 ## 2. API Endpoints
 
