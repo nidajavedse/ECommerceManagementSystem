@@ -4,8 +4,6 @@
 
 The project follows a standard Spring Boot application structure:
 
-# Project Structure
-
 ## src/main/java/com/apricart/task
 
 ### controller
