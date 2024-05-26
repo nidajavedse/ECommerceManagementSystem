@@ -7,16 +7,16 @@ The project follows a standard Spring Boot application structure:
 src
  └── main
    ├── java
-    │   └── com
-    │       └── apricart
-    │           └── task
-    │               ├── controller       // REST API controllers
-    │               ├── model           // Entity classes
-    │               ├── repository      // Spring Data repositories
-    │               ├── service         // Service classes
-    │               └── TaskApplication.java  // Main Spring Boot application class
-    └── resources
-        └── application.properties       // Application configuration properties
+   │   └── com
+   │       └── apricart
+   │           └── task
+   │               ├── controller       // REST API controllers
+   │               ├── model           // Entity classes
+   │               ├── repository      // Spring Data repositories
+   │               ├── service         // Service classes
+   │               └── TaskApplication.java  // Main Spring Boot application class
+   └── resources
+       └── application.properties       // Application configuration properties
 
 
 ## 2. API Endpoints
@@ -66,7 +66,7 @@ src
 
 ### 2. Interact with API Endpoints
 - Use appropriate HTTP requests (e.g., using tool like Postman) to interact with the provided API endpoints.
-- Refer to the [API documentation](#api-endpoints) for details on request and response formats for each endpoint.
+- Refer to the API Endpoints section for details on request and response formats for each endpoint.
 
 ### 3. Configure Application Properties
 
